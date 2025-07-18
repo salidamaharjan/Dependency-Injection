@@ -1,4 +1,4 @@
-package org.example;
+package traditionalDependencyInjection;
 
 public class Bike{
     private final WheelManager wheels;

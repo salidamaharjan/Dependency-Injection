@@ -1,4 +1,4 @@
-package org.example;
+package traditionalDependencyInjection;
 
 public class Wheels {
     private Integer numOfWheel;
